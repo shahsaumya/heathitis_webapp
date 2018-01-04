@@ -5,4 +5,4 @@ Made in the Dubai Virtual GovHack, the web app used Blockchain Technologies and 
 ## Technology Stack
 - **Backend - Ethereum Blockchain with Smart Contracts in Solidity**
 - **Web3.js API used to collect data from the web app forms**
-- **Truffle to deploy the project**
+- **Truffle Suite that works on the Ethereum Blockchain to deploy the project**
